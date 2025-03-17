@@ -1,7 +1,7 @@
 # 🔐 Password Strength Meter
 
 ## Overview
-This Python program checks the strength of a password based on security rules and provides feedback to help improve it.
+Built with Python, UV, and Streamlit, this program evaluates password strength based on security rules and provides feedback to enhance its security.
 
 ## 🚀 Features
 - Checks password length, uppercase & lowercase letters, numbers, and special characters.
@@ -32,11 +32,5 @@ A strong password should:
 - **Regular Expressions (re)**
 - **HTML & CSS (for styling in Streamlit)**
 
-## 📥 How to Install & Use
-1. **Clone the project:**
-   ```sh
-   git clone https://github.com/yourusername/password-strength-checker.git
-   cd password-strength-checker
-
-🌍 Try It Live
-🔗 Click here to check your password!
+## 🌍Live Demo
+https://areeshakhan723-password-strength-meter-using-python-main-wezasj.streamlit.app/
